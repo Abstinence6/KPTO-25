@@ -1,0 +1,14 @@
+
+[Common]
+Name = Default operation
+RepeatNumber = 1
+
+[Algoritm1]
+Protocol = default
+Window = default
+ProtocolCause = 0
+RuleAlgoritm = default
+AccountAlgoritm = default
+CompletteCause = 0
+Enabled = 1
+

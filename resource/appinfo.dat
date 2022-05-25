@@ -1,0 +1,15 @@
+[Pcmngr.exe]
+Info=Менеджер РС
+
+[Regul.exe]
+Info=Регулировки
+
+[Base.exe]
+Info=Базы данных
+
+[Refusal.exe]
+Info=Регистратор отказов
+
+[Registrar.exe]
+Info=Регистратор параметров
+
