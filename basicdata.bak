@@ -1,0 +1,14 @@
+[BasicData]
+EngineType=
+EngineNum=456
+BoardType=
+BoardN=6
+User=asdf
+FlightN=
+Logged=Эксплуатант
+Comment=Доработка и отладка ПО
+[Version]
+VerKPTO=АХША.22400-01
+VerCMU=АХША.21800-00
+VerSGU=АХША.21900-00
+VerVMU=АХША.22100-00
